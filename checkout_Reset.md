@@ -47,4 +47,5 @@ Para realizar los siguientes ejercicios debes investigar sobre los parámetros -
 21. Utilizando git reset deshaz el commit previo para que ningún cambio aparezca en el directorio de trabajo.
 **git reset <log del commit anterior>**
 22. ¡Date una palmadita en la espalda! ¡Acabas de realizar un flujo de trabajo bastante complejo de git!
-    :D
+    
+**NOTA** A la hora de hacer el commit con el second.txt me salía un error que decía que la rama master estaba vacía aún habiendo hecho el add anteriormente lo cual no he sido capaz de solucionar y no he podido hacer los 4 últimos apartados.

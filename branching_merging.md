@@ -9,7 +9,7 @@ Los siguientes ejercicios los debes realizar en tu máquina real, no es necesari
 3. Inicializa un repositorio vacío.
 **git init**
 4. Crea un fichero llamado first.txt después añade y haz commit con un solo comando.
-**nano first.txt y hacer git commit -a**
+**touch first.txt && git add first.txt && git commit -m**
 5. Crea una nueva rama llamada _**amazing_feature**_.
 **git checkout -b amazing_feature**
 6. Cámbiate a dicha rama.

@@ -9,7 +9,7 @@ Los siguientes ejercicios los debes realizar en tu máquina real, no es necesari
 3. Inicializa un repositorio git vacío.
 **git init**
 4. Crea un fichero llamado **stage_me.txt**
-**touch stage_me.txt
+**touch stage_me.txt**
 5. Añade el fichero stage_me.txt al área de preparación (staging area).
 **git add stage_me.txt**
 6. Mueve el fichero stage.txt del área de preparación al directorio de trabajo.
